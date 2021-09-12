@@ -1,4 +1,4 @@
-![alt text](https://github.com/tylercartwright/nascardata/blob/main/web scraper.png?raw=true)
+![alt text](https://github.com/tylercartwright/nascardata/blob/main/web_scraper.png?raw=true)
 
 Web scraping and writing dataframes to Excel using BS4 and Pandas, followed by data manipulation and visualization.
 
