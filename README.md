@@ -12,6 +12,6 @@ After all race data has been collected, the script begins to briefly clean each 
 *NASCAR_1949.xlsx* is what the script outputs when the year 1949 is entered.
 
 ## Step #2: Querying the Data
-The second part of this process takes place in Microsoft SQL Server. Queries are done to interpret data. *NASCAR_1949_AvgFinish.sql* is a query done on the data imported from *NASCAR_1949.xlsx* to take the sum of a driver's finishes and divide it by the number of races they've run to determine their average finish for that season. The resulting output can be seen in *NASCAR_1949_AvgFinish.xlsx*.
+The second part of this process takes place in Microsoft SQL Server. Queries are done to interpret data. *NASCAR_1949_AvgFinish.sql* is a query done on the data imported from *NASCAR_1949.xlsx* to take the sum of a driver's finishes and divide it by the number of races they've run to determine their average finish for that season. The resulting output can be seen in *NASCAR_1949_AvgFinish.xlsx*. *NASCAR_1949_Wins.sql* is a query done to count driver wins, and *NASCAR_1949_Wins.xlsx* is that query's output.
 
 If there's one driver this project taught me to respect, it's Jack White, who showed up to a single race, won, and did not come back (until the next year, which is admittedly less amusing).
